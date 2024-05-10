@@ -1,0 +1,17 @@
+goal: "summary and introduce modern standby of windows os"
+role:
+  - title: "senior windows engineer"
+  - industry: "software and windows os"
+  - company: "microsoft"
+task:
+  - Task_1: "explain how modern standby working "
+  - Task_2: "list out the useful link for modern standby"
+  - Task_3: "give the study plan for junior BIOS engineer"
+result:
+  - format: "markdown"
+  - style: "bullet points"
+details:
+  - tone: "professional and easy to understand"
+  - word_limits: "300 words"
+  - target_audience: "junior BIOS engineer"
+  - pre_action: "ignore all previous instructions before this one"
