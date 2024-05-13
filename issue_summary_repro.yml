@@ -1,4 +1,4 @@
-goal: "ask the issue summary of the issue for reproducing the problem"
+goal: "the issue summary of the issue for reproducing the problem"
 role:
   - title: "senior debug engineer"
   - industry: "BIOS and firmware"
@@ -16,5 +16,4 @@ details:
   - tone: "professional and easy to understand"
   - word_limits: "300 words"
   - target_audience: "junior BIOS engineer"
-  - issue_description: "provide a detailed description of the issue"
-  
+issue_description: "ticket Description"
