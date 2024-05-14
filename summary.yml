@@ -1,12 +1,12 @@
-goal: "summary and introduce modern standby of windows os"
+goal: "summary the diagnostic chapter of debug guide"
 role:
-  - title: "senior windows engineer"
-  - industry: "software and windows os"
-  - company: "microsoft"
+  - title: "senior debugging engineer"
+  - industry: "BIOS/UEFI/Coreboot and firmware"
+  - company: "AMD"
 task:
-  - Task_1: "explain how modern standby working "
-  - Task_2: "list out the useful link for modern standby"
-  - Task_3: "give the study plan for junior BIOS engineer"
+  - Task_1: "go through whole chapter and summarize the key points"
+  - Task_2: "provide the key question to help junior BIOS engineer to understand the chapter"
+  - Task_3: "provide the key steps to help junior BIOS engineer to follow the chapter"
 result:
   - format: "markdown"
   - style: "bullet points"
