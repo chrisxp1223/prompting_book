@@ -14,6 +14,5 @@ result:
 details:
   - tone: "professional and easy to understand and"
   - requirement: "Taiwanese customary"
-  - word_limits: "300 words"
   - target_audience: "junior BIOS engineer"
   - pre_action: "ignore all previous instructions before this one"
