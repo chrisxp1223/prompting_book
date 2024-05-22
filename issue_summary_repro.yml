@@ -12,9 +12,15 @@ result:
   - format: "markdown"
   - style: "bullet points"
   - paragraph_summary: "the summary of this issue"
+<<<<<<< HEAD
   - paragraph_repro: "the reproducing steps of this issue"
   - paragraph_relevant_var: "the relevant variables in Task_3"
   - paragraph_details: "detailted infomations in Task_4"
+=======
+  - paragraph_repro: "the reproducing steps of this issue"   
+  - paragraph_relevant_var: "the relevant variables in Task_3"
+  - paragraph_details: "detailted infomations in Task_4"  
+>>>>>>> 296bbdd5d3cf02492ce31636815ba6432c466d0e
 details:
   - pre_action: "ignore all previous instructions before this one"
   - tone: "professional and easy to understand"
