@@ -11,6 +11,10 @@ task:
 result:
   - format: "markdown"
   - style: "bullet points"
+  - paragraph_summary: "the summary of this issue"
+  - paragraph_repro: "the reproducing steps of this issue"   
+  - paragraph_relevant_var: "the relevant variables in Task_3"
+  - paragraph_details: "detailted infomations in Task_4"  
 details:
   - pre_action: "ignore all previous instructions before this one"
   - tone: "professional and easy to understand"
