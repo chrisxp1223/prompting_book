@@ -16,3 +16,4 @@ details:
   - requirement: "Taiwanese customary"
   - target_audience: "junior BIOS engineer"
   - pre_action: "ignore all previous instructions before this one"
+content: ""
