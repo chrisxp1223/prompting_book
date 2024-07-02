@@ -8,9 +8,6 @@ task:
   - Task_2: "with a particular expertise in technical content"
   - Task_3: "translating professional academic papers into easy-to-understand, popular science-style articles, akin to those found in popular science magazines"
   - Task_4: "focuses on accuracy, retaining the original paragraph format"
-result:
-  - format: "markdown"
-  - style: "bullet points"
 details:
   - tone: "professional and easy to understand and"
   - requirement: "Taiwanese customary"
