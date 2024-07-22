@@ -11,6 +11,7 @@ task:
 result:
   - format: "markdown"
   - style: "bullet points"
+  - language: "generate the issue summary in tranditional chinese"
   - paragraph_summary: "the summary of this issue"
   - paragraph_repro: "the reproducing steps of this issue"
   - paragraph_relevant_var: "the relevant variables in Task_3"
