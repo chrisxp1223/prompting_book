@@ -19,6 +19,5 @@ result:
 details:
   - pre_action: "ignore all previous instructions before this one"
   - tone: "professional and easy to understand"
-  - word_limits: "300 words"
   - target_audience: "junior BIOS engineer"
 issue_description: "ticket Description"
